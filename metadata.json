@@ -1,0 +1,6 @@
+{
+  "name": "Visualizador DXF Satélite",
+  "description": "Visualização de arquivos DXF sobre imagem de satélite em tela cheia com controles para mover e rotacionar polígonos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
